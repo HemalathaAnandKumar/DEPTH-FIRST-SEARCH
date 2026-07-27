@@ -1,7 +1,7 @@
 # BREADTH-FIRST-SEARCH
 <h1>ExpNo 3 : Implement Breadth First Search Traversal of a Graph</h1> 
-<h3>Name:  </h3>
-<h3>Register Number: </h3>
+<h3>Name:HEMALATHA.A  </h3>
+<h3>Register Number: 2122242400565</h3>
 <H3>Aim:</H3>
 <p>To Implement Breadth First Search Traversal of a Graph using Python 3.</p>
 <h3>Theory:</h3>
@@ -102,6 +102,7 @@ G F <BR>
 <h3>Sample Output</h3>
 <hr>
 ['0', '1', '2', '3', '4']
+
 ## PROGRAM
 ```
 from collections import deque
@@ -139,10 +140,9 @@ print(traversedpath)
 
 <img width="557" height="150" alt="image" src="https://github.com/user-attachments/assets/7fbea880-4f63-4440-be2e-02622f71b655" />
 
-<hr>
-<h3>Result:</h3>
-<hr>
-<p>Thus,a Graph was constructed and implementation of Breadth First Search for the same graph was done successfully.</p>
+## RESULT
+
+Thus,a Graph was constructed and implementation of Breadth First Search for the same graph was done successfully.
 
 
 
