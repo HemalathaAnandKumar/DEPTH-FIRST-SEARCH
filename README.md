@@ -138,7 +138,8 @@ print(traversedpath)
 
 ## OUTPUT
 
-<img width="557" height="150" alt="image" src="https://github.com/user-attachments/assets/7fbea880-4f63-4440-be2e-02622f71b655" />
+<img width="381" height="142" alt="image" src="https://github.com/user-attachments/assets/24507bab-c6cf-4a62-a929-82d0b164b442" />
+
 
 ## RESULT
 
